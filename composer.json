@@ -1,0 +1,25 @@
+{
+	"name": "Paymentwall PHP",
+	"description": "Paymentwall PHP Library.",
+	"version": "2.2.3",
+	"type": "library",
+	"license": "MIT",
+	"authors": [
+        {
+            "name": "chenxiansen",
+            "email": "1849132652@qq.com"
+        }
+    ],
+	"require": {
+		"php": ">=5.2",
+		"ext-curl": "*",
+		"ext-json": "*"
+	},
+	"autoload": {
+		"classmap": ["lib/Paymentwall/"],
+		"psr-4": {
+            "PayWall\\": "lib/"
+        }
+	},
+	"minimum-stability": "dev"
+}
