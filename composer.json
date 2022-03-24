@@ -1,6 +1,7 @@
 {
     "name": "smater/payment-wall",
     "type": "library",
+    "description": "payment支付集成",
     "license": "MIT",
     "authors": [
         {
