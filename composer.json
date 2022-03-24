@@ -8,9 +8,8 @@
             "email": "15951982354@163.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
-        "smater/payment-wall": "dev-master",
         "php": ">=7.2",
         "ext-curl": "*"
     },
