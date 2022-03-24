@@ -10,6 +10,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
+        "smater/payment-wall": "dev-master",
         "php": ">=7.2",
         "ext-curl": "*"
     },
