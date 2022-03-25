@@ -1,5 +1,4 @@
 <?php
-namespace PaymentWall\Lib\Paymentwall\Signature;
 class Paymentwall_Signature_Pingback extends Paymentwall_Signature_Abstract
 {
 	public function process($params = array(), $version = 0)

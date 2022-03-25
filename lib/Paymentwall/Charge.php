@@ -1,5 +1,4 @@
 <?php
-namespace PaymentWall\Lib\Paymentwall;
 class Paymentwall_Charge extends Paymentwall_ApiObject implements Paymentwall_ApiObjectInterface
 {
 	public function getId()

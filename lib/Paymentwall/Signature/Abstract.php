@@ -1,5 +1,4 @@
 <?php
-namespace PaymentWall\Lib\Paymentwall\Signature;
 abstract class Paymentwall_Signature_Abstract extends Paymentwall_Instance
 {
 	const VERSION_ONE = 1;

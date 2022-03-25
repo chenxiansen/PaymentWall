@@ -1,5 +1,4 @@
 <?php
-namespace PaymentWall\Lib\Paymentwall;
 class Paymentwall_Product
 {
 	const TYPE_SUBSCRIPTION = 'subscription';

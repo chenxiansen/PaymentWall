@@ -1,5 +1,4 @@
 <?php
-namespace PaymentWall\Lib\Paymentwall\Response;
 class Paymentwall_Response_Error extends Paymentwall_Response_Abstract implements Paymentwall_Response_Interface
 {
 

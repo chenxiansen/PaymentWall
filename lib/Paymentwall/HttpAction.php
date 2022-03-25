@@ -1,5 +1,4 @@
 <?php
-namespace PaymentWall\Lib\Paymentwall;
 class Paymentwall_HttpAction extends Paymentwall_Instance
 {
 	protected $apiObject;
