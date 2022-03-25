@@ -16,8 +16,8 @@
     },
      "autoload": {
         "psr-4": {
-            "PayWallTest\\": "test/"
-        },
-       "classmap": ["lib/Paymentwall/"]
+            "PayWallTest\\": "test/",
+            "PayWall\\": "src/"
+        }
     }
 }
