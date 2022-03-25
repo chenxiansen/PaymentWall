@@ -17,11 +17,6 @@
      "autoload": {
         "psr-4": {
             "PaymentWall\\Test\\": "test/"
-            // "PaymentWall\\Lib\\": "lib/",
-            // "PaymentWall\\Features\\": "features/"
-        },
-         "files":[
-            "lib/paymentwall.php"
-        ]
+        }
     }
 }
