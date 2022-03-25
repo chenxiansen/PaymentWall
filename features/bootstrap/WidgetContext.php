@@ -1,5 +1,5 @@
 <?php
-namespace Features\bootstrap;
+namespace PaymentWall\Features\bootstrap;
 use Behat\Behat\Context\BehatContext;
 
 class WidgetContext extends BehatContext

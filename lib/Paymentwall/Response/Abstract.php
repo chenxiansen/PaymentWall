@@ -1,5 +1,5 @@
 <?php
-namespace PaymentWall\Paymentwall\Response;
+namespace PaymentWall\Lib\Paymentwall\Response;
 abstract class Paymentwall_Response_Abstract
 {
 	protected $response;

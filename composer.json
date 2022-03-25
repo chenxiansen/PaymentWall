@@ -1,5 +1,5 @@
 {
-    "name": "smater/payment-wall",
+    "name": "smater/paymentwall",
     "type": "library",
     "description": "payment支付集成",
     "license": "MIT",
@@ -16,10 +16,10 @@
     },
      "autoload": {
         "psr-4": {
-            "PayWallTest\\": "test/",
-            "PayWall\\": "src/",
-            "PaymentWall\\": "lib/",
-            "Features\\": "features/"
+            "PaymentWall\\Test\\": "test/",
+            "PaymentWall\\Src\\": "src/",
+            "PaymentWall\\Lib\\": "lib/",
+            "PaymentWall\\Features\\": "features/"
         }
     }
 }

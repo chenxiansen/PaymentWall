@@ -1,5 +1,5 @@
 <?php
-namespace PaymentWall\Paymentwall;
+namespace PaymentWall\Lib\Paymentwall;
 interface Paymentwall_ApiObjectInterface
 {
 	public function getCard();

@@ -1,5 +1,5 @@
 <?php
-namespace PaymentWall\Paymentwall;
+namespace PaymentWall\Lib\Paymentwall;
 class Paymentwall_Subscription extends Paymentwall_ApiObject
 {
 	public function getId()

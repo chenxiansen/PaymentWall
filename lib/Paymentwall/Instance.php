@@ -1,5 +1,5 @@
 <?php
-namespace PaymentWall\Paymentwall;
+namespace PaymentWall\Lib\Paymentwall;
 abstract class Paymentwall_Instance
 {
 	protected $config;

@@ -3,7 +3,7 @@
  * Class Paymentwall_Base
  * @deprecated
  */
-namespace PaymentWall\Paymentwall;
+namespace PaymentWall\Lib\Paymentwall;
 class Paymentwall_Base extends Paymentwall_Config
 {
 	public static function setApiType($apiType = 0)
