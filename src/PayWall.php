@@ -11,8 +11,8 @@ class PayWall
     
     Paymentwall_Config::getInstance()->set(array(
     'api_type' => Paymentwall_Config::API_GOODS,
-    'public_key' => 'e23b0408f3e308f01ae36d807a8cd25f',
-    'private_key' => '671446f9456d6535337d7ce3e2747b0c'
+    'public_key' => '',
+    'private_key' => ''
     ));
     $widget = new Paymentwall_Widget(
         '555155', // uid
