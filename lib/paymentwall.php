@@ -1,4 +1,5 @@
 <?php
+namespace PaymentWall;
 
 if (!function_exists('curl_init')) {
 	throw new Exception('CURL PHP extension is required');

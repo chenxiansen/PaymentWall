@@ -1,5 +1,5 @@
 <?php
-
+namespace PaymentWall\Paymentwall;
 class Paymentwall_Widget extends Paymentwall_Instance
 {
     const CONTROLLER_PAYMENT_VIRTUAL_CURRENCY	= 'ps';

@@ -1,5 +1,5 @@
 <?php
-
+namespace PaymentWall\Paymentwall;
 class Paymentwall_Card
 {
 	protected $fields = array();

@@ -1,5 +1,5 @@
 <?php
-
+namespace PaymentWall\Paymentwall;
 abstract class Paymentwall_ApiObject extends Paymentwall_Instance
 {
 	const API_BRICK_SUBPATH			= 'brick';

@@ -1,5 +1,5 @@
 <?php
-
+namespace PaymentWall\Paymentwall;
 class Paymentwall_Pingback extends Paymentwall_Instance
 {
 	const PINGBACK_TYPE_REGULAR = 0;

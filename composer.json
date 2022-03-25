@@ -17,7 +17,9 @@
      "autoload": {
         "psr-4": {
             "PayWallTest\\": "test/",
-            "PayWall\\": "src/"
+            "PayWall\\": "src/",
+            "PaymentWall\\": "lib/",
+            "Features\\": "features/"
         }
     }
 }

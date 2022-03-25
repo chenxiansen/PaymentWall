@@ -1,4 +1,5 @@
 <?php
+namespace PaymentWall\Paymentwall;
 class Paymentwall_Mobiamo extends Paymentwall_ApiObject {
 	protected $token;
 	const API_OBJECT_MOBIAMO = 'mobiamo';

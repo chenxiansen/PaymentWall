@@ -1,5 +1,5 @@
 <?php
-
+namespace PaymentWall\Paymentwall;
 class Paymentwall_GenerericApiObject extends Paymentwall_ApiObject
 {
 	/**

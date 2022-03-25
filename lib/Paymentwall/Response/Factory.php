@@ -1,5 +1,5 @@
 <?php
-
+namespace PaymentWall\Paymentwall\Response;
 class Paymentwall_Response_Factory
 {
 	const CLASS_NAME_PREFIX = 'Paymentwall_Response_';

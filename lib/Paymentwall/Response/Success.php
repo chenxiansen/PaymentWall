@@ -1,5 +1,5 @@
 <?php
-
+namespace PaymentWall\Paymentwall\Response;
 class Paymentwall_Response_Success extends Paymentwall_Response_Abstract implements Paymentwall_Response_Interface
 {
 	public function process()
